@@ -46,7 +46,8 @@ User preference is overwhelmingly driven by an abundance/quantity of information
 
 **3- What are the overall satisfaction levels for AI, Search Engines, and Social Media?**
 Both Search Engines (Mean: 69.56) and AI tools (Mean: 64.17) display high overall satisfaction, showing a strong population concentration toward elevated scores. Social Media satisfaction diverges with a significantly lower mean (42.40) and a flattened distribution (Platykurtic), reflecting a wide variance in user sentiment and less uniform consensus compared to the dedicated research tools.
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b20acf40-9a13-4654-8976-e8f23600ae01" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0f770d72-a986-4b23-bdda-e05e6d70c8bf" />
+
 
 **4- Is the proportion of individuals who completely avoid using AI, Search Engines, or Social Media significantly different from an expected 20% baseline?**
 The data establishes that 22.8% of respondents explicitly avoid using social media channels when looking for serious research data. This observed baseline rests remarkably close to the hypothesized 20% avoidance threshold, confirming that a stable fifth of the research demographic systematically isolates social media away from their serious information pipelines.
