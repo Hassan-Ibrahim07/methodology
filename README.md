@@ -7,6 +7,7 @@ In the modern digital era, the landscape of academic and general research has un
 While traditional search engines index web pages based on algorithms, AI tools synthesize immediate answers, and social media platforms offer highly visual, community-driven knowledge. This shifting dynamic raises significant questions regarding user satisfaction, perceived data security, trust, and information verification habits. Understanding these preferences sheds light on whether traditional search frameworks are being systematically outpaced or if they remain crucial backbones of information security.
 
 ## objectives
+ **this project was to made to analyze all the data using only python to make one practice and understand pyhton more in real life projects, and also to practice creating surveys and how to extract the data from them.**
 
 * **Analyze Volume & Demographics:** Measure how much individuals rely on AI tools and search engines in terms of daily search volumes across student demographics.
 * **Evaluate Operational Drivers:** Determine the fundamental factors—such as trust, speed, security, and information abundance—that dictate why users prioritize one research tool over another.
@@ -31,18 +32,6 @@ The data for this study was collected via a comprehensive 30-variable consumer q
 * **Information Trust (29.8%)**: Perceived data accuracy dictates primary tool selection for less than a third of users.
 * **Data Security (17.5%)**: Security is a minor priority driver.
 
-## sharing
-
-To better visualize these findings, here are the core visualizations extracted from our descriptive analysis.
-
-### Heavy Usage vs. Perceived Security by Platform
-![Usage vs Security](usage_security.png)
-
-### Social Media Platform Dominance in Research
-![Social Media Platforms](social_media.png)
-
-### Daily Routine Preference: Platform Ranked as #1
-![Daily Rank](daily_rank.png)
 
 ## conclusion
 
@@ -53,9 +42,11 @@ Paradoxically, traditional search engines have the lowest heavy-usage percentage
 
 **2- What are the primary factors that drive user preference for specific research tools?**
 User preference is overwhelmingly driven by an abundance/quantity of information (54.3%) and the operational speed of acquiring data (49.1%). Conversely, structural integrity factors like Information Trust (29.8%) and Data Security (17.5%) serve as minor secondary priority metrics.
+<img width="1600" height="1333" alt="image" src="https://github.com/user-attachments/assets/cbaeb8d9-67d4-43ca-8599-50e67027a277" />
 
 **3- What are the overall satisfaction levels for AI, Search Engines, and Social Media?**
 Both Search Engines (Mean: 69.56) and AI tools (Mean: 64.17) display high overall satisfaction, showing a strong population concentration toward elevated scores. Social Media satisfaction diverges with a significantly lower mean (42.40) and a flattened distribution (Platykurtic), reflecting a wide variance in user sentiment and less uniform consensus compared to the dedicated research tools.
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b20acf40-9a13-4654-8976-e8f23600ae01" />
 
 **4- Is the proportion of individuals who completely avoid using AI, Search Engines, or Social Media significantly different from an expected 20% baseline?**
 The data establishes that 22.8% of respondents explicitly avoid using social media channels when looking for serious research data. This observed baseline rests remarkably close to the hypothesized 20% avoidance threshold, confirming that a stable fifth of the research demographic systematically isolates social media away from their serious information pipelines.
@@ -65,3 +56,4 @@ Fact verification is an incredibly consistent habit within the demographic. User
 
 **6- When social media is utilized for research, which specific platforms are the most dominant?**
 YouTube dominates social media research applications, heavily relied upon by 59.6% of the surveyed population. Facebook holds the secondary position with an active utilization rate of 42.1%. Newer short-form channels or specialized networks fail to achieve a dominant research foothold (TikTok 24.6%, Instagram 15.8%, Reddit 14.0%, X/Twitter 7.0%).
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/8c59c71c-ca48-4aa4-8b99-4e1b9aea1cfd" />
